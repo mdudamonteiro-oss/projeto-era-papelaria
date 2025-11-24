@@ -1,0 +1,22 @@
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Montserrat', sans-serif;
+  background: linear-gradient(180deg, #F2E6ED 0%, #E6F0FA 50%, #F2E6ED 100%);
+  color: #0A0C23;
+  overflow-x: hidden;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* Cole aqui TODO o resto do CSS que estava no arquivo original... */
+/* ... Menu Navigation, Hero, Portfolio, etc ... */
+
+/* Exemplo da correção dos Kits */
+.pricing-card svg {
+    display: block;
+    margin: 0 auto 20px auto;
+}
